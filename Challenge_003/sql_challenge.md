@@ -49,7 +49,7 @@ INSERT INTO BST (N, P) VALUES
 
 **Data Visualization:**
 
-<img src="./asset/Capture_Input.png" alt="BST!" width="600"/>
+<img src="./asset/Capture_Input.PNG" alt="BST!" width="600"/>
 
 ## Expected Output
 
