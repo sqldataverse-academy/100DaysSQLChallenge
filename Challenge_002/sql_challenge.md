@@ -27,7 +27,7 @@ If multiple employees share the same shortest or longest name length, select the
 - Find the employee with the **shortest** first name
 - Find the employee with the **longest** first name
 - Display both the name and its character count
-- For ties, choose the alphabetically first name
+- If multiple employees share the same shortest or longest name length, select the one whose name appears first alphabetically.
 - Output format: `FIRST_NAME LENGTH`
 
 ## Sample Input
